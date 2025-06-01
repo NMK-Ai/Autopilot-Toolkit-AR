@@ -22,3 +22,12 @@
 - معالج SSH لإنشاء مفاتيح SSH وتثبيتها
 - مٟثبّت Fork
 
+
+![openpilot Toolkit Exporter](https://i.imgur.com/GAG527Q.png)
+![openpilot Toolkit Remote](https://i.imgur.com/eog5Bhp.png)
+![openpilot Toolkit Explorer](https://i.imgur.com/DkBxWfU.png)
+![openpilot Toolkit Fingerprint Wizard](https://i.imgur.com/Nq1dW2k.png)
+![openpilot Toolkit SSH Wizard](https://i.imgur.com/9nQLkxy.png)
+![openpilot Toolkit Fork Installer](https://i.imgur.com/Qp5pQlK.png)
+![openpilot Toolkit Terminal](https://i.imgur.com/3MVi4b9.png)
+
